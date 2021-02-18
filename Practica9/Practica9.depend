@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1607408131 source:c:\users\roxan\onedrive\documents\ed\practica9\main.cpp
+	<iostream>
+	"Persona.h"
+	"Pokemon.h"
+	"Entrenador.h"
+	"ArrayListSt.h"
+
+1607312872 c:\users\roxan\onedrive\documents\ed\practica9\include\persona.h
+	<iostream>
+
+1607312866 source:c:\users\roxan\onedrive\documents\ed\practica9\src\persona.cpp
+	"Persona.h"
+
+1607356648 c:\users\roxan\onedrive\documents\ed\practica9\include\pokemon.h
+	<iostream>
+
+1607404337 source:c:\users\roxan\onedrive\documents\ed\practica9\src\entrenador.cpp
+	"Entrenador.h"
+	"POkemon.h"
+
+1607404214 c:\users\roxan\onedrive\documents\ed\practica9\include\entrenador.h
+	<iostream>
+	"POkemon.h"
+
+1607357659 source:c:\users\roxan\onedrive\documents\ed\practica9\src\pokemon.cpp
+	"Pokemon.h"
+
+1607407935 source:c:\users\roxan\onedrive\documents\ed\practica9\src\arraylistst.cpp
+	"ArrayListSt.h"
+
+1607408108 c:\users\roxan\onedrive\documents\ed\practica9\include\arraylistst.h
+	<iostream>
+

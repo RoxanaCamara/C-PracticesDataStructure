@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1594164845 source:c:\users\sawad\desktop\ed-virtual\c++\queue\main.cpp
+	<iostream>
+	"Queue.h"
+
+1594164975 c:\users\sawad\desktop\ed-virtual\c++\queue\queue.h
+	<iostream>
+
+1594164953 source:c:\users\sawad\desktop\ed-virtual\c++\queue\queue.cpp
+	"Queue.h"
+
